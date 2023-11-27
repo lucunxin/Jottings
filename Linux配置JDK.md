@@ -1,5 +1,5 @@
 ### 下载地址：
-[点击下载]([https://www.csdn.net/](https://www.oracle.com/java/technologies/downloads/#java8](https://www.oracle.com/java/technologies/downloads/#java8))
+[传送门](https://www.oracle.com/java/technologies/downloads/#java8/)
 
 ### 下载JDK
 
