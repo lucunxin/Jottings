@@ -10,7 +10,7 @@
 
 ### 上传至服务器并解压
 
-![image.png](Linux配置JDK+ddf0cd06-06f2-485d-9405-42dc9b239754/image 1.png)
+![Linux配置JDK-1.png](./images/Linux配置JDK/Linux配置JDK-2.png)
 
 ### 配置环境变量
 
@@ -29,7 +29,7 @@ export JRE_HOME=$JAVA_HOME/jre
 
 如图：
 
-![image.png](Linux配置JDK+ddf0cd06-06f2-485d-9405-42dc9b239754/image 2.png)
+![Linux配置JDK-1.png](./images/Linux配置JDK/Linux配置JDK-3.png)
 
 添加完之后按ESC退出编辑模式，输入:wq后回车（保存并退出）
 
@@ -47,7 +47,7 @@ java -version
 
 安装成功后会出现如下版本信息：
 
-![image.png](Linux配置JDK+ddf0cd06-06f2-485d-9405-42dc9b239754/image 3.png)
+![Linux配置JDK-1.png](./images/Linux配置JDK/Linux配置JDK-4.png)
 
 ### 卸载JDK
 
