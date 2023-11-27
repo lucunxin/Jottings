@@ -4,7 +4,7 @@
 
 ### 下载JDK
 
-#### 进入页面后下载64位的包，jdk-8u181-linux-x64.tar.gz与jdk-8u181-linux-x64.rpm都可以，下面会分别介绍两种包的安装方法，选择其中一种进行安装即可。
+##### 进入页面后下载64位的包，jdk-8u181-linux-x64.tar.gz与jdk-8u181-linux-x64.rpm都可以，下面会分别介绍两种包的安装方法，选择其中一种进行安装即可。
 
 ![Linux配置JDK-1.png](./images/Linux配置JDK/Linux配置JDK-1.png)
 
@@ -14,7 +14,7 @@
 
 ### 配置环境变量
 
-#### 修改配置文件，配置环境变量，在命令行输入：
+##### 修改配置文件，配置环境变量，在命令行输入：
 ```F#
 vi /etc/profile
 ```
@@ -28,7 +28,7 @@ export CLASSPATH=.:JAVA_HOME/lib/dt.jar:JAVA_HOME/lib/tools.jar
 export JRE_HOME=$JAVA_HOME/jre
 ```
 
-#### 如图：
+##### 如图：
 
 ![Linux配置JDK-1.png](./images/Linux配置JDK/Linux配置JDK-3.png)
 
@@ -46,21 +46,21 @@ source /etc/profile
 java -version
 ```
 
-#### 安装成功后会出现如下版本信息：
+##### 安装成功后会出现如下版本信息：
 
 ![Linux配置JDK-1.png](./images/Linux配置JDK/Linux配置JDK-4.png)
 
 ### 卸载JDK
 
-#### 将安装包删除，然后把配置文件内添加的环境变量删除
+##### 将安装包删除，然后把配置文件内添加的环境变量删除
 
-#### 删除安装包的命令如下：
+##### 删除安装包的命令如下：
 
 ```F#
 rm -rf /soft/jdk1.8.0_181
 ```
 
-#### 修改配置文件的方法和上述配置环境变量一样
+##### 修改配置文件的方法和上述配置环境变量一样
 
 
 
