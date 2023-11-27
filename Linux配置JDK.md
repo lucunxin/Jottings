@@ -1,8 +1,5 @@
-### 下载地址：
-[传送门](https://www.oracle.com/java/technologies/downloads/#java8/)
-
 ### 下载JDK
-
+[下载地址](https://www.oracle.com/java/technologies/downloads/#java8/)
 ##### 进入页面后下载64位的包，jdk-8u181-linux-x64.tar.gz与jdk-8u181-linux-x64.rpm都可以，下面会分别介绍两种包的安装方法，选择其中一种进行安装即可。
 
 ![Linux配置JDK-1.png](./images/Linux配置JDK/Linux配置JDK-1.png)
