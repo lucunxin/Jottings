@@ -6,7 +6,7 @@
 
 进入页面后下载64位的包，jdk-8u181-linux-x64.tar.gz与jdk-8u181-linux-x64.rpm都可以，下面会分别介绍两种包的安装方法，选择其中一种进行安装即可。
 
-![image.png](Linux配置JDK+ddf0cd06-06f2-485d-9405-42dc9b239754/image.png)
+![Linux配置JDK-1.png](./images/Linux配置JDK/Linux配置JDK-1.png)
 
 ### 上传至服务器并解压
 
